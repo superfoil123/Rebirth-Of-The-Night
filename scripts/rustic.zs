@@ -103,27 +103,3 @@ mods.rustic.CrushingTub.removeRecipe(<liquid:honey> * 250, <rustic:honeycomb> * 
 //remove apple byproduct
 mods.rustic.CrushingTub.removeRecipe(<liquid:applejuice> * 250, <minecraft:apple> * 1);
 mods.rustic.CrushingTub.addRecipe(<liquid:applejuice> * 250, null, <minecraft:apple> * 1);
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
