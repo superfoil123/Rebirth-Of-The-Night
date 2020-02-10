@@ -130,6 +130,7 @@ recipes.addShaped("water_well", <harvestcraft:well>,[
 ]);
 
 // Hyper hardcore presser
+recipes.remove(<harvestcraft:presser>);
 recipes.addShaped("food_presser", <harvestcraft:presser>, [
 [<dungeontactics:steel_ingot>, <dungeontactics:steel_ingot>, <dungeontactics:steel_ingot>],
 [<minecraft:piston>, <betterwithmods:single_machine>, <minecraft:piston>], 
